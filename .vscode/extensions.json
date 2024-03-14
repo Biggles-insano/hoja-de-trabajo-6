@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "marcolee.testfile-generator-for-junit",
+        "georgewfraser.vscode-javac",
+        "dsnake.java-debug",
+        "hbenl.vscode-test-explorer",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-vscode.test-adapter-converter"
+    ]
+}
